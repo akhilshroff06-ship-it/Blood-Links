@@ -185,3 +185,4 @@ To access the **Admin Portal** (`/admin-dashboard`):
 | GET | `/api/admin/blood-banks` | Admin | Directory of all registered blood banks |
 | GET | `/api/admin/requests` | Admin | System-wide audit of all patient requests |
 | DELETE | `/api/admin/users/:id` | Admin | Delete a user and cascade clean related records |
+"# Blood-Links" 
